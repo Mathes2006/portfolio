@@ -762,16 +762,6 @@ section,
   z-index: 2;
 }
 
-.hero .image-overlay {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  right: 80px;
-  bottom: -20px;
-  background: linear-gradient(45deg, var(--accent-color), color-mix(in srgb, var(--accent-color), transparent 30%));
-  border-radius: 20px;
-  z-index: 1;
-}
 
 .hero .floating-elements {
   position: absolute;
